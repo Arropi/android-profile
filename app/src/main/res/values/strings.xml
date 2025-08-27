@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="my_name">Muhammad Arrofii Faiz</string>
+    <string name="nim">24/539896/SV/24708</string>
+    <string name="asal_daerah">DKI Jakarta</string>
+    <string name="linkedln">Muhammad Arrofii</string>
+    <string name="program_studi">Teknologi Rekayasa Perangkat Lunak</string>
+    <string name="instagram">arrofaiz6</string>
+    <string name="hoby">Belajar Coding🚀</string>
+    <string name="quotes">\"Jika kamu tidak sanggup menahan lelahnya belajar, maka kamu harus sanggup menahan perihnya kebodohan\"</string>
+</resources>
